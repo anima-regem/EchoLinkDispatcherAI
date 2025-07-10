@@ -1,0 +1,3 @@
+[submodule "dashboard/client"]
+	path = dashboard/client
+	url = git@github.com:anima-regem/EchoLinkDemo.git
